@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Hello and welcome to DevOpsCon Munich Demo Repository
+# Hello and welcome to DevOpsCon Munich 2019 Demo Repository
 =======
 # Hello and welcome to DevOpsCon demo repository
 >>>>>>> cc2dbcb0896e63a1e6dc285ac56d38082bd44b8c
