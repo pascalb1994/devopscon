@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Hello and welcome to DevOpsCon Munich Demo Repository
+=======
+# Hello and welcome to DevOpsCon demo repository
+>>>>>>> cc2dbcb0896e63a1e6dc285ac56d38082bd44b8c
 ## This repo contains basic Maven project with Hello-World war file 
 In order to make it work, please do the following: 
 
